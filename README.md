@@ -36,7 +36,7 @@ Payment: Payment page.
 Clone the repository:
 sh
 
-git clone https://github.com/Mahmoudfattah/E-Commerce-React-App.git  
+git clone https://github.com/Mahmoudfattah/SooQ-Store.git  
 Navigate to the project directory:
 sh
 
