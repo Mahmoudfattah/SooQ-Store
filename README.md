@@ -29,7 +29,7 @@ Products: Displays all products.
 ProductDetails: Detailed page for a product.
 Cart: Shopping cart page.
 WishList: Wishlist page.
-Register & Login: User authentication pages.
+Register , Login , Forgot & Update Password: User authentication pages.
 Profile: User profile information.
 Payment: Payment page.
 🚀 How to Run the Project
