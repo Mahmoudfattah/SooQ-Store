@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/SooQ-Store/static/css/main.0b4578d2.css",
+    "main.js": "/SooQ-Store/static/js/main.2b15282c.js",
+    "static/js/488.5f1067de.chunk.js": "/SooQ-Store/static/js/488.5f1067de.chunk.js",
+    "static/media/sldr2.jpg": "/SooQ-Store/static/media/sldr2.b624ea35fb96d8bbcdd8.jpg",
+    "static/media/checkout-button.jpg": "/SooQ-Store/static/media/checkout-button.8a36fb55ed55ccabd1a8.jpg",
+    "static/media/sldr1.jpg": "/SooQ-Store/static/media/sldr1.18897b405b422b92f93e.jpg",
+    "static/media/fa-solid-900.ttf": "/SooQ-Store/static/media/fa-solid-900.2582b0e4bcf85eceead0.ttf",
+    "static/media/grocery-banner.png": "/SooQ-Store/static/media/grocery-banner.2c56649c9cbe2e19b86f.png",
+    "static/media/fa-brands-400.ttf": "/SooQ-Store/static/media/fa-brands-400.1815e00441357e01619e.ttf",
+    "static/media/grocery-banner-2.jpeg": "/SooQ-Store/static/media/grocery-banner-2.7a4a78a90acc3d5847cb.jpeg",
+    "static/media/fa-solid-900.woff2": "/SooQ-Store/static/media/fa-solid-900.2463b90d9a316e4e5294.woff2",
+    "static/media/fa-brands-400.woff2": "/SooQ-Store/static/media/fa-brands-400.c210719e60948b211a12.woff2",
+    "static/media/fa-regular-400.ttf": "/SooQ-Store/static/media/fa-regular-400.914997e1bdfc990d0897.ttf",
+    "static/media/signup-g-Dtp6-wtD.svg": "/SooQ-Store/static/media/signup-g-Dtp6-wtD.73cc3cde34b1d7654df2c58e51862391.svg",
+    "static/media/error-404_108061-66.jpg": "/SooQ-Store/static/media/error-404_108061-66.59446f9ad892b153e079.jpg",
+    "static/media/fa-regular-400.woff2": "/SooQ-Store/static/media/fa-regular-400.89999bdf5d835c012025.woff2",
+    "static/media/logo-4.webp": "/SooQ-Store/static/media/logo-4.eba0ffbaffad66d0f8dc.webp",
+    "static/media/signin-DlR7P608.png": "/SooQ-Store/static/media/signin-DlR7P608.dd98b01bd649851703c5.png",
+    "static/media/fa-v4compatibility.ttf": "/SooQ-Store/static/media/fa-v4compatibility.da94ef451f4969af06e6.ttf",
+    "static/media/fa-v4compatibility.woff2": "/SooQ-Store/static/media/fa-v4compatibility.ea8f94e1d22e0d35ccd4.woff2",
+    "static/media/Colored Shapes (1).svg": "/SooQ-Store/static/media/Colored Shapes (1).5f8793bc472783664484.svg",
+    "static/media/slick.svg": "/SooQ-Store/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/SooQ-Store/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/SooQ-Store/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/SooQ-Store/static/media/slick.295183786cd8a1389865.woff",
+    "static/media/Curve Line.svg": "/SooQ-Store/static/media/Curve Line.72805bd0b2d288544135.svg",
+    "index.html": "/SooQ-Store/index.html",
+    "main.0b4578d2.css.map": "/SooQ-Store/static/css/main.0b4578d2.css.map",
+    "main.2b15282c.js.map": "/SooQ-Store/static/js/main.2b15282c.js.map",
+    "488.5f1067de.chunk.js.map": "/SooQ-Store/static/js/488.5f1067de.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b4578d2.css",
+    "static/js/main.2b15282c.js"
+  ]
+}
