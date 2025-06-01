@@ -37,8 +37,8 @@
 
 body {
   font-family: var(--font-family-sec) !important;
-  background: url('./Assets/images/Curve Line.svg') no-repeat center center / cover,
-              url('./Assets/images/Colored Shapes (1).svg') no-repeat center center / cover;
+  background: url('./Assets/images/light-patten.svg') no-repeat center center / cover;
+              
   background-attachment: fixed;
   height: 100vh;
   font-weight: 400;
@@ -262,19 +262,21 @@ background-color: transparent !important;
   left: 2.5%;
   /* margin-top: 2px !important; */
  
-  background: linear-gradient(135deg, rgba(110, 25, 63, 0.95), rgba(200, 255, 220, 0.9));
-  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  background: transparent;
+  /* box-shadow: var(--shadow); */
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(10px);
  
   border-radius: 16px;
   margin: 0 auto;
   z-index: 1000;
   backdrop-filter: blur(8px);
-  border: 1px solid rgba(255, 255, 255, 0.2);
+ 
 }
 .navbar .nav-link{
   font-size: 18px !important;
  
-  color: rgb(222, 225, 231) !important;
+  color: rgb(134, 134, 134) !important;
 
 }
 .scrolled{
