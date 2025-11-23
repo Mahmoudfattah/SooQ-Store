@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/SooQ-Store/static/css/main.55903a4d.css",
-    "main.js": "/SooQ-Store/static/js/main.2b15282c.js",
+    "main.js": "/SooQ-Store/static/js/main.0fe7fc8d.js",
     "static/js/488.5f1067de.chunk.js": "/SooQ-Store/static/js/488.5f1067de.chunk.js",
     "static/media/sldr2.jpg": "/SooQ-Store/static/media/sldr2.b624ea35fb96d8bbcdd8.jpg",
     "static/media/light-patten.svg": "/SooQ-Store/static/media/light-patten.ed706aff39a009de4e80.svg",
@@ -27,11 +27,11 @@
     "static/media/slick.woff": "/SooQ-Store/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/SooQ-Store/index.html",
     "main.55903a4d.css.map": "/SooQ-Store/static/css/main.55903a4d.css.map",
-    "main.2b15282c.js.map": "/SooQ-Store/static/js/main.2b15282c.js.map",
+    "main.0fe7fc8d.js.map": "/SooQ-Store/static/js/main.0fe7fc8d.js.map",
     "488.5f1067de.chunk.js.map": "/SooQ-Store/static/js/488.5f1067de.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.55903a4d.css",
-    "static/js/main.2b15282c.js"
+    "static/js/main.0fe7fc8d.js"
   ]
 }
