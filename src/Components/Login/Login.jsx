@@ -53,8 +53,8 @@ export default function Login() {
 
       let formik = useFormik({
         initialValues:{
-          email:"",
-          password:"",
+          email:"Testtesttest2090@gmail.com",
+          password:"Test123",
         },validationSchema,
          onSubmit:loginSubmit,
       })
@@ -128,7 +128,7 @@ export default function Login() {
                   </button>
                 ) : (
                   <button
-                    disabled={!(formik.isValid && formik.dirty)}
+                    disabled={!(formik.isValid )}
                     type="submit"
                     className="btn bg-main ps-1 text-white w-100"
                   >

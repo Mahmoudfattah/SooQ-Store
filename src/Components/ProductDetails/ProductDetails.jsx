@@ -35,7 +35,7 @@ export default function ProductDetails() {
      }
        let {  data } = useQuery({
          queryKey:['productdetails'],
-         queryFn:()=> getProductDetails(id)   // يجب تمرير `queryFn` بدون أقواس
+         queryFn:()=> getProductDetails(id)   
        });
       
        

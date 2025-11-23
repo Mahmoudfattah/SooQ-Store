@@ -1,5 +1,5 @@
 import React, { useContext, useEffect,useState } from 'react';
-import { NavLink, useNavigate,Link } from 'react-router-dom';  // تأكد من استخدام NavLink
+import { NavLink, useNavigate,Link } from 'react-router-dom';  
 import logo from '../../Assets/images/logo-4.webp';
 import { Context } from '../../Context/CartContext';
 import { UserContext } from '../../Context/UserContext';

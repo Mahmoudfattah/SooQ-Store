@@ -1,3 +1,4 @@
+//we make this page to prevent the defualt behaiver of react 
 import {useEffect}from 'react'
 import { useLocation } from 'react-router-dom';
 
